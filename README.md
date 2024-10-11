@@ -1,9 +1,9 @@
-# Patch Antenna Design (1-5 GHz Range) with Future Machine Learning Integration
+# **Patch Antenna Design (1-5 GHz Range) with Future Machine Learning Integration**
 
-# Project Overview
+### **Project Overview**
 This project involves the design, simulation, and optimization of a patch antenna operating in the 1-5 GHz frequency range, using **CADFEKO**. The primary goal is to create an efficient antenna with minimal return loss at key frequencies. In the future, machine learning techniques will be applied to further optimize the antenna design.
 
-### Design Specifications
+### **Design Specifications**
 - **Frequency Range:** 1 GHz to 5 GHz
 - **Software Used:** CADFEKO 2022
 - **Design Type:** Rectangular patch antenna
@@ -47,7 +47,3 @@ In the future, machine learning algorithms will be used to:
 1. Open the `.fek` file in CADFEKO for antenna simulation.
 2. Run simulations to view return loss, radiation patterns, and other key performance metrics.
 3. In the future, apply machine learning models to automate and optimize your design process.
-
----
-
-This README includes your current work and plans for using machine learning in CADFEKO. By applying machine learning, you'll not only optimize antenna performance but also innovate the design process. Keep me updated on your progress, and let me know if you'd like further assistance!

@@ -1,8 +1,9 @@
 # **Patch Antenna Design (1-5 GHz Range) with Future Machine Learning Integration**
 ![Screenshot (396)](https://github.com/user-attachments/assets/af775c82-6bf4-4d9d-b321-0dcbf5072aed)
 
+![Screenshot (418)](https://github.com/user-attachments/assets/7c85badc-96a7-4a59-a726-2ead52ac903a)
 
-![Screenshot (378)](https://github.com/user-attachments/assets/61ced986-0d0a-47a9-8e07-03502f6ccc3d)
+
 
 
 
